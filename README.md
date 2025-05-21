@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salimtahayacine Middle  Full Stack Web Dev
+- 👋 Hi, I’m @salimtahayacine Middle Full Stack Web/Mobile Developper
 - 👀 I’m interested in  Ingenieuring Application mobile/Web
 - 🌱 I’m currently a Full stuck Développer = > Java SpringBoot / JS Angular-vuejs-reactjs / MERN
 - 💞️ I’m looking to collaborate on Web or Mobile Development
