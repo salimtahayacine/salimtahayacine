@@ -89,7 +89,7 @@ I'm always excited to collaborate on interesting projects and discuss new techno
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/p130133894?style=social)](https://github.com/p130133894)
+  [![GitHub followers](https://img.shields.io/github/followers/salimtahayacine?style=social)](https://github.com/salimtahayacine)
   
 </div>
 
